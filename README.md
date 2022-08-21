@@ -1,4 +1,4 @@
-# mtmfont
+# mtmfront
 
 ## Project setup
 ```
